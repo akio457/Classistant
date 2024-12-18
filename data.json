@@ -1,0 +1,16 @@
+{
+    "akio_7125": {
+        "reputation": 85,
+        "warnings": "2 warnings in 1st Qtr",
+        "sanctions": ["1 green slip during 1st Quarter", "2 green slips during 2nd Quarter"],
+        "awards": {
+            "Buwan ng Wika Dance": "1st Place",
+            "Math & Science Day SciDamath": "1st Place",
+            "Reading Month Speech Choir": "1st Place",
+            "Reading Month Cosplay": "1st Place"
+        },
+        "grades": {
+            "1st Quarter Math": 76
+        }
+    }
+}
